@@ -1,4 +1,5 @@
 # Slack Frontend
+- Front end of slack clone i.e., Smack is written in swift and story board. 
 # Slack backend
 
 # Features
