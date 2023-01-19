@@ -1,5 +1,5 @@
-# This project is used to communicate like as slack.
-# Backend is written in express js and database mongodb
+# Slack Frontend
+# Slack backend
 
 # Features
 1. Channel created
